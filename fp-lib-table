@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Custom_SMD)(type KiCad)(uri ${KIPRJMOD}/custom_smd.pretty)(options "")(descr ""))
+  (lib (name 7Segment)(type KiCad)(uri ${KIPRJMOD}/7segment.pretty)(options "")(descr ""))
+  (lib (name Custom_pinheaders)(type KiCad)(uri ${KIPRJMOD}/pinheaders.pretty)(options "")(descr ""))
+)

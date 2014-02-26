@@ -1,0 +1,227 @@
+Cmp-Mod V01 Created by CvPcb (2013-12-28 BZR 4579)-product date = ons 26 feb 2014 20:25:44 CET
+
+BeginCmp
+TimeStamp = /52FF88FF;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = Custom_SMD:SMD_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF8853;
+Reference = C2;
+ValeurCmp = 10nF;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF89A3;
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = Custom_SMD:SMD_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5304EB1E;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5304E7AC;
+Reference = C5;
+ValeurCmp = 1nF;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF1D6E;
+Reference = D1;
+ValeurCmp = 7-SEGMENT-4DIGIT-YOUNGSUN;
+IdModule  = 7Segment:7SEGMENT-4DIGIT-YOUNGSUN;
+EndCmp
+
+BeginCmp
+TimeStamp = /530923A0;
+Reference = P1;
+ValeurCmp = CONN_11;
+IdModule  = Custom_pinheaders:Pinrow_11p_oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /5303C34F;
+Reference = P3;
+ValeurCmp = I2C;
+IdModule  = Custom_pinheaders:Pinrow_4p_oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF3506;
+Reference = Q1;
+ValeurCmp = PNP;
+IdModule  = Custom_SMD:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF3518;
+Reference = Q2;
+ValeurCmp = PNP;
+IdModule  = Custom_SMD:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF355B;
+Reference = Q3;
+ValeurCmp = PNP;
+IdModule  = Custom_SMD:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF365B;
+Reference = Q4;
+ValeurCmp = PNP;
+IdModule  = Custom_SMD:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF1EB7;
+Reference = R1;
+ValeurCmp = 150;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF1EAC;
+Reference = R2;
+ValeurCmp = 150;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF1EA1;
+Reference = R3;
+ValeurCmp = 150;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF1E5A;
+Reference = R4;
+ValeurCmp = 150;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF2144;
+Reference = R5;
+ValeurCmp = 150;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF214F;
+Reference = R6;
+ValeurCmp = 150;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF215A;
+Reference = R7;
+ValeurCmp = 150;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF2165;
+Reference = R8;
+ValeurCmp = 150;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5300729E;
+Reference = R9;
+ValeurCmp = 1k;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /530072C1;
+Reference = R10;
+ValeurCmp = 1k;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5300739E;
+Reference = R11;
+ValeurCmp = 1k;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5300738E;
+Reference = R12;
+ValeurCmp = 1k;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5304E798;
+Reference = R13;
+ValeurCmp = 47k;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5304CFFB;
+Reference = R14;
+ValeurCmp = 150;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5304CF69;
+Reference = R15;
+ValeurCmp = 0R;
+IdModule  = Custom_SMD:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /530E3F58;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Custom_SMD:3x6_smd_button;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF14BC;
+Reference = U1;
+ValeurCmp = MSP430G2553IN20;
+IdModule  = Custom_SMD:TSSOP20;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF14FA;
+Reference = U2;
+ValeurCmp = 74HC595;
+IdModule  = Custom_SMD:SO16;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF883D;
+Reference = U3;
+ValeurCmp = LP2985LV;
+IdModule  = Custom_SMD:SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FF84C1;
+Reference = X1;
+ValeurCmp = CRYSTAL;
+IdModule  = Custom_SMD:Crystal_SMD_FC135;
+EndCmp
+
+EndListe
