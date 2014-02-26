@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-12-28 BZR 4579)-product date = ons 26 feb 2014 20:25:44 CET
+Cmp-Mod V01 Created by CvPcb (2013-12-28 BZR 4579)-product date = ons 26 feb 2014 22:07:24 CET
 
 BeginCmp
 TimeStamp = /52FF88FF;
@@ -190,16 +190,16 @@ IdModule  = Custom_SMD:SMD_0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /530E3F58;
+TimeStamp = /530E48AE;
 Reference = SW1;
-ValeurCmp = SW_PUSH;
+ValeurCmp = RESET;
 IdModule  = Custom_SMD:3x6_smd_button;
 EndCmp
 
 BeginCmp
 TimeStamp = /52FF14BC;
 Reference = U1;
-ValeurCmp = MSP430G2553IN20;
+ValeurCmp = MSP430G2553;
 IdModule  = Custom_SMD:TSSOP20;
 EndCmp
 
@@ -213,7 +213,7 @@ EndCmp
 BeginCmp
 TimeStamp = /52FF883D;
 Reference = U3;
-ValeurCmp = LP2985LV;
+ValeurCmp = 2985;
 IdModule  = Custom_SMD:SOT23-5;
 EndCmp
 
