@@ -37,11 +37,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
+Title "Mini Sapphire Prototyping 7segment"
+Date "26 feb 2014"
 Rev ""
-Comp ""
-Comment1 ""
+Comp "Niels Kjøller Hansen"
+Comment1 "Licensed under CERN OHL v.1.2"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -408,7 +408,7 @@ L CRYSTAL X1
 U 1 1 52FF84C1
 P 9550 5950
 F 0 "X1" H 9550 6100 60  0000 C CNN
-F 1 "CRYSTAL" H 9550 5800 60  0000 C CNN
+F 1 "32KHz" H 9550 5800 60  0000 C CNN
 F 2 "" H 9550 5950 60  0000 C CNN
 F 3 "" H 9550 5950 60  0000 C CNN
 	1    9550 5950

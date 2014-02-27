@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/niels/Projekter/msp-7seg/msp-7seg.sch)
-    (date "ons 26 feb 2014 22:06:50 CET")
+    (date "ons 26 feb 2014 22:23:42 CET")
     (tool "eeschema (2013-12-28 BZR 4579)-product"))
   (components
     (comp (ref U1)
@@ -80,7 +80,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 52FF365B))
     (comp (ref X1)
-      (value CRYSTAL)
+      (value 32KHz)
       (libsource (lib device) (part CRYSTAL))
       (sheetpath (names /) (tstamps /))
       (tstamp 52FF84C1))
