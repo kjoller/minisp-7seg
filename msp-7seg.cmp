@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-12-28 BZR 4579)-product date = ons 26 feb 2014 22:07:24 CET
+Cmp-Mod V01 Created by CvPcb (2014-02-28 BZR 4729)-product date = lør 01 mar 2014 10:13:54 CET
 
 BeginCmp
 TimeStamp = /52FF88FF;
@@ -45,8 +45,15 @@ EndCmp
 BeginCmp
 TimeStamp = /530923A0;
 Reference = P1;
-ValeurCmp = CONN_11;
+ValeurCmp = IO;
 IdModule  = Custom_pinheaders:Pinrow_11p_oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /5311A400;
+Reference = P2;
+ValeurCmp = Serial;
+IdModule  = Custom_pinheaders:Pinrow_5p_oval;
 EndCmp
 
 BeginCmp
@@ -220,7 +227,7 @@ EndCmp
 BeginCmp
 TimeStamp = /52FF84C1;
 Reference = X1;
-ValeurCmp = CRYSTAL;
+ValeurCmp = 32KHz;
 IdModule  = Custom_SMD:Crystal_SMD_FC135;
 EndCmp
 
